@@ -1,0 +1,13 @@
+{
+    "appium:platformName": "Android",
+    "appium:automationName": "UiAutomator2",
+    "appium:autoGrantPermissions": true,
+    "appium:skipDeviceInitialization": true,
+    "appium:skipServerInstallation": true,
+    "appium:ignoreUnimportantViews": true,
+    "appium:noReset": true,
+    "appium:fullReset": false,
+    "appium:elementTimeout": 5000,
+    "appium:fullContextList": true,
+    "appium:relaxedSecurity": true
+}

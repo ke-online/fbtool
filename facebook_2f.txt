@@ -1,0 +1,8 @@
+accessbility_id: Menu, tab 6 of 6
+xpath: //android.view.View[@content-desc="Menu, tab 6 of 6"]
+
+accessbility_id: Settings & privacy, header. Section is expanded. Double-tap to collapse the section.
+xpath: //android.view.ViewGroup[@content-desc="Settings & privacy, header. Section is expanded. Double-tap to collapse the section."]
+
+accessbility_id:
+xpath: //androidx.recyclerview.widget.RecyclerView[@resource-id="com.facebook.katana:id/(name removed)"]/android.view.ViewGroup[10]/android.view.ViewGroup

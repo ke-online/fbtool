@@ -1,0 +1,6 @@
+# Start the server on the default host (0.0.0.0) and port (4723)
+appium server
+# You can also omit the 'server' subcommand
+appium
+# Start the server on the given host, port and use a custom base path prefix (the default prefix is '/')
+appium --address 127.0.0.1 --port 9000 --base-path /wd/hub
